@@ -1,0 +1,6 @@
+We are writing a productivity app in python with the following features:
+
+    - Pomodoro timer with "task time", "break time" and "pomodoro break time"
+    - A task that 
+
+The GUI The defaults for the pomodoro timer start at 5 minutes of work time, 1 minute of break, and after completing a "pomodoro" (4x work sessions & 3 break sessions) they will take a break   and increate by  minutes of work, 5 minutes break, and every 4 The session is given a focus that  MVC components split in separate files. Keyboard control.
